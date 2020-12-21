@@ -11,4 +11,4 @@ Here's a handful of things I can't seem to stop talking about.
 * RV life
 * Managing WordPress clients
 
-Alternatively, if you read any [blog](alexstandiford.com/blog/) content I've written, and would like me to discuss it as a talk, don't hesitate to reach out.
+Alternatively, if you read any [blog](http://www.alexstandiford.com/blog/) content I've written, and would like me to discuss it as a talk, don't hesitate to reach out.
