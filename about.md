@@ -24,9 +24,8 @@ I spend most of my time working with the awesome people at [Sandhills	Developmen
 
 ## Personal Life
 
-I decided to switch to a remote-work and web development lifestyle in 2014 when my wife and I had our first	child. I just couldn’t stand spending so much time away from my family, especially since my son was so young,	and was usually asleep before I got home from work.
+These days, we live in a camper, and are traveling the country. We talk about our exploits on [Casual Weirdness](https://www.casualweirdness.life), and share what we are learning on the road. It's a good life, exciting, and full of constant good weather.
 
-When I’m not writing code, I am probably enjoying craft beer, playing disc golf, sailing, or camping.
+I've been working in a remote work lifestyle for most of the last 5 years, and honestly I don't see myself ever going back to the office. There's just too much to see out there, too much to-do. Not to mention, I get to spend much more time with my two kids, my wife, and our pets.
 
-Beyond that, I spend most of my free time with my wife, my two sons, and my [fetch-loving Springer Spaniel, Phoebe.](<https://www.youtube.com/watch?v=2guDJU4E_g8>)
-
+When I’m not writing code, I am probably enjoying craft beer, playing disc golf, cooking, or camping.
