@@ -12,7 +12,7 @@ From here, we plan on doing a big ol' year-long loop up north, and then back dow
 
 ## In My Business
 
-The effects of COVID-19, and my inability to go to conferences finally caught up to us. This has been a very slow year for DFS, but honestly I've been fine with it. Nobody is counting on DesignFrame to earn a living right now, and the lack of business has given Trisha and me all year to re-align the business. I'm personally doubling down on traditional marketing efforts, and DesignFrame's affiliate program in-hopes I can stop relying so heavily on gonig to conferences to bring in business.
+The effects of COVID-19, and my inability to go to conferences finally caught up to us. This has been a very slow year for DFS, but honestly I've been fine with it. Nobody is counting on DesignFrame to earn a living right now, and the lack of business has given Trisha and me all year to re-align the business. I'm personally doubling down on traditional marketing efforts, and DesignFrame's [affiliate program](https://designframesolutions.com/become-an-affiliate/) in-hopes I can stop relying so heavily on gonig to conferences to bring in business.
 
 In-addition to that, I've spent a fair amount of this year fleshing out an upcoming WordPress plugin that we will be selling early next year, called FlareWP, as well as 
 an open-source WordPress theme & plugin framework called [Underpin](https://github.com/alexstandiford/underpin). I talk about the benefits of Underpin [here](https://designframesolutions.com/how-underpin-keeps-technical-debt-low/).
