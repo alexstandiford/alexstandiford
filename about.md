@@ -24,7 +24,7 @@ I spend most of my time working with the awesome people at [Sandhills	Developmen
 
 ## Personal Life
 
-These days, we live in a camper, and are traveling the country. We talk about our exploits on [Casual Weirdness](https://www.casualweirdness.life), and share what we are learning on the road. It's a good life, exciting, and full of constant good weather.
+These days, we live in a camper, and are traveling the country. We talk about our exploits on [Casual Weirdness](https://casualweirdness.life/), and share what we are learning on the road. It's a good life, exciting, and full of constant good weather.
 
 I've been working in a remote work lifestyle for most of the last 5 years, and honestly I don't see myself ever going back to the office. There's just too much to see out there, too much to-do. Not to mention, I get to spend much more time with my two kids, my wife, and our pets.
 
