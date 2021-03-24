@@ -6,9 +6,9 @@ I've been putting most of my time into [AffiliateWP](https://www.affiliatewp.com
 
 ## Personal
 
-We're currently living in our travel trailer full-time, and are parked in western New Mexico.
+We're currently living in our travel trailer full-time, and are parked somewhere in California.
 
-From here, we are continuing west, up through California, and then back down into the south before Winter 2021. We've become quite comfortable with boondocking, and hauling the rig. Kate, my wife, [keeps our Instagram account updated](instagram.com/our_casual_weirdness/), and you can see some of the highlights of our journey.
+From here, we are heading north, up through California, and then back down into the south before Winter 2021. We've become quite comfortable with boondocking, and hauling the rig. Kate, my wife, [keeps our Instagram account updated](instagram.com/our_casual_weirdness/), and you can see some of the highlights of our journey.
 
 ## In My Business
 
