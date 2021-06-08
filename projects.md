@@ -6,9 +6,9 @@ I've been putting most of my time into [AffiliateWP](https://www.affiliatewp.com
 
 ## Personal
 
-After traveling over 3000 miles in the last 2 months, we're pretty tired of moving at the moment and have parked the RV for a 30-day respite in Northern California.
+I spent most of the last month in Northern California, where I spent most of my available time recording, and working on a [WordPress plugin development course](https://www.alexstandiford.com/wordpress-plugin-course). I also played [a little disc golf](https://twitter.com/AlexStandiford/status/1387243607527100420) in a remote course deep in the mountains.
 
-From here, we plan to continue north through the Pacific Northwest. We've become quite comfortable with boondocking, and hauling the rig. Kate, my wife, [keeps our Instagram account updated](instagram.com/our_casual_weirdness/), and you can see some of the highlights of our journey.
+At the last possible second, we decided to head to New Mexico instead of continuing north. We're now parked in Northern New Mexico (we lovingly call it "New Mexicolorado"), where we'll be for at least the next month, maybe longer. We really love it here, and want to get to know the area a bit before we move on. I have absolutely no idea where we'll go after this.
 
 ## In My Business
 
