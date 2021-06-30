@@ -1,6 +1,6 @@
 # Hi, I'm Alex
 
-I am Alex Standiford. I’m a web developer from the little town of Dover, Ohio. I’ve been tinkering with web	technologies my entire life, and started my career as a web developer in 2015.
+I am Alex Standiford. I’m a web developer from the little town of Anywhere, USA. I’ve been tinkering with web	technologies my entire life, and started my career as a web developer in 2015.
 
 Since then, I have built dozens of WordPress plugins, scratch-made websites, and web applications.
 
