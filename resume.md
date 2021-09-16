@@ -1,3 +1,4 @@
+[View as a Google Doc](https://docs.google.com/document/d/1ZFNR07sLwoxqPE1v64w_ugREsGaoWolY/edit?usp=sharing&ouid=106713940945749175824&rtpof=true&sd=true)
 # Alex Standiford
 
 ## A self-driven, adventurous web developer
