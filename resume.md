@@ -10,11 +10,15 @@ _Knowledgeable about modern web technologies, and thirst to apply it somewhere g
 
 My primary role at Sandhills development was being a senior developer for their top-grossing product, [AffiliateWP](https://www.affiliatewp.com). While working on this plugin, I played a key role in reducing existing technical debt, and building new features, as well as a key person on the team who advises on architectural decisions.
 
-* Played a key role in the development of their most-recent plugin release, Affiliate Portal.
-* Advised on architectural code decisions, and optimizations
-* Conceptualized modern, advanced Javascript architecture for the core plugin as well as the addons.
-* Wrote extensive unit tests, and participated in TDD practices
-* Participated in code reviews, and advised junior level-roles.
+Played a key role in the development of their most-recent plugin release, Affiliate Portal.
+
+Advised on architectural code decisions, and optimizations
+
+Conceptualized modern, advanced Javascript architecture for the core plugin as well as the addons.
+
+Wrote extensive unit tests, and participated in TDD practices
+
+Participated in code reviews, and advised junior level-roles.
 
 #### Technologies Used:
 
