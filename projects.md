@@ -2,7 +2,7 @@
 
 ## At My Job
 
-I've been putting most of my time into [AffiliateWP](https://www.affiliatewp.com), mostly working on some [key block-based updates in the newest version of AffiliateWP](https://affiliatewp.com/custom-affiliate-registration-forms/). It's been a fun change of pace to work on block-based things in AffiliateWP, and I'm _thrilled_ to see team Alf continue to commit to not only staying relevant - but working to remain as the best affiliate program on WordPress. I'm probably biased, but I'm also right. ;)
+I'm currently looking for employment. You can see my resume [here](https://github.com/alexstandiford/alexstandiford/blob/main/resume.md). If you think I'm a good fit for your company, feel free to [message me on Twitter](twitter.com/alexStandiford) or shoot me an email at a@alexstandiford.com
 
 ## Personal
 
