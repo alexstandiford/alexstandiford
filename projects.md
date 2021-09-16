@@ -2,7 +2,7 @@
 
 ## At My Job
 
-I'm currently looking for employment. You can see my resume [here](https://github.com/alexstandiford/alexstandiford/blob/main/resume.md). If you think I'm a good fit for your company, feel free to [message me on Twitter](twitter.com/alexStandiford) or shoot me an email at a@alexstandiford.com
+I'm currently looking for employment. You can see my resume [here](https://github.com/alexstandiford/alexstandiford/blob/main/resume.md). If you think I'm a good fit for your company, feel free to [message me on Twitter](https://www.twitter.com/alexStandiford) or shoot me an email at a@alexstandiford.com
 
 ## Personal
 
