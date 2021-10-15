@@ -2,11 +2,11 @@
 
 ## At My Job
 
-I'm currently looking for employment. You can see my resume [here](https://github.com/alexstandiford/alexstandiford/blob/main/resume.md). If you think I'm a good fit for your company, feel free to [message me on Twitter](https://www.twitter.com/alexStandiford) or shoot me an email at a@alexstandiford.com
+I started a new job, working on the [GoDaddy's E-commerce](https://www.godaddy.com/hosting/ecommerce-hosting) team. I figure if all these plugin companies are going to be bought out by bigger companies, I may as well make the switch _now_, on my terms. What I didn't expect was just how small the culture would feel, even though it's a part of a very large company. This is my first "corporate" job, so I was a little nervous. I have since discovered that this particular team is going to give me a chance to expand my knowledge both within WordPress, and beyond. I'm _really_ exacited about it.
 
 ## Personal
 
-We have moved to a plot of land in New Mexico, and had a [handful of struggles](https://casualweirdness.life/life-off-grid-in-new-mexico-week-1/) during our first week. Shortly after getting all-set, we had a string of bad luck, and 13 things broke in 12 days, including [our refrigerator](https://twitter.com/AlexStandiford/status/1421146904423849987), two tires on my truck, and two generators. This was a pretty big setback, but we are coming out of it now.
+We're currently making preperations to upgrade our solar system, and intend to head back to Texas for the winter. It's getting cold up here in Taos, and our rig _really_ does not do well in winter. We're burning through 1 tank of propane a week, and that makes me crazy. I find myself yearning for Texas winter, specifically Christmas in Texas. We're thinking that we're going to give this RV life thing another year or two before we set up roots. WIth that, we're making some upgrades to the RV this winter, including a snazzy new solar setup.
 
 ## My WordPress Development Agency, DesignFrame Solutions
 
