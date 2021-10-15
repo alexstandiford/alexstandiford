@@ -6,6 +6,11 @@ _Knowledgeable about modern web technologies, and thirst to apply it somewhere g
 
 ## Work Experience:
 
+### GoDaddy (E-Commerce Division)
+**Senior Software Development Engineer - October 2020 - Present**
+
+At GoDaddy, my role is to help their e-commerce team improve and maintain their managed e-commerce offerings, specifically for WooCommerce.
+
 ### Sandhills Development:
 **Senior Developer – January 2019 – September 2021**
 
