@@ -6,7 +6,9 @@ I started a new job, working on the [GoDaddy's E-commerce](https://www.godaddy.c
 
 ## Personal
 
-We're currently making preperations to upgrade our solar system, and intend to head back to Texas for the winter. It's getting cold up here in Taos, and our rig _really_ does not do well in winter. We're burning through 1 tank of propane a week, and that makes me crazy. I find myself yearning for Texas winter, specifically Christmas in Texas. We're thinking that we're going to give this RV life thing another year or two before we set up roots. WIth that, we're making some upgrades to the RV this winter, including a snazzy new solar setup.
+We're parked in Texas, where we will remain through the holidays. From here we plan on heading east over the next year, and will probably spend the summer in New England. In the meantime, we're going to make some upgrades to the RV this winter, including a snazzy new solar setup.
+
+Kate shared a post about the continued journey [here](https://casualweirdness.life/the-journey-continues/).
 
 ## My WordPress Development Agency, DesignFrame Solutions
 
