@@ -13,13 +13,14 @@ If you are interested in hiring me, or working with me in any way, you can conta
 ## Skills
 
 - WordPress (duh)
+- WooCommerce
+- AffiliateWP
 - JavaScript
 - PHP
 - HTML
 - CSS/SCSS
 - Node.js
 - React
-- WordPress
 - jQuery
 - Webpack
 - Responsive Design
