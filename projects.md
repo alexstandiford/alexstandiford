@@ -8,7 +8,7 @@ I started a new job, working on the [GoDaddy's E-commerce](https://www.godaddy.c
 
 I bought a much bigger camper, and a new truck that can actually haul said camper. We're effectively doubling our square footage with this new rig. After much discussion, Kate and I decided that we just _aren't ready to stop this anytime soon_, and if we're going to be on the road then it's time to make an upgrade that will suit us for that timeframe. Our current rig is sufficient, but we're definitely starting to feel crammed in here. as the kids get older, they're starting to take up more space, and we anticipate that this is only going to continue to be a challenge as Devin grows. So, we got a big ol' fifth wheel that gives the kids their own room, gives us our own room, and includes suitable living areas for lounging, as well as a kitchen.
 
-So as I'm writing this, we're anxiously awaiting it to warm up in Ohio enough for us to head up there, start making the upgrades to the camper, and get on with moving in. I. Can't. Freaking. Wait.
+We're currently on week 6 in Dover making repairs and upgrades to the camper and are despearately wanting to get the heck out of here and back on the road. My routine is so jacked up right now.
 
 ## Online Courses at WP Dev Academy
 
