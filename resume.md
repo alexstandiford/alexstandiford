@@ -7,9 +7,27 @@ _Knowledgeable about modern web technologies, and thirst to apply it somewhere g
 ## Work Experience:
 
 ### GoDaddy (E-Commerce Division)
-**Senior Software Development Engineer - October 2020 - Present**
+**Senior Software Development Engineer - October 2021 - Present**
 
-At GoDaddy, my role is to help their e-commerce team improve and maintain their managed e-commerce offerings, specifically for WooCommerce.
+At GoDaddy, I work with a team of developers who build, and maintain their Managed WooCommerce offerings.. While working here, I have played a role in introducing several features, provide opinions and input on development architecture, and of course, write lots of code.
+
+* Participate in agile development workflows
+* Advised on architectural code decisions, and optimizations
+* Work extensively with modern PHP practices.
+* Write extensive unit tests, and participated in TDD practices
+* Work in multiple development environments, both in, and out of WordPress
+
+#### Technologies Used:
+
+* E-Commerce
+* WordPress REST API
+* Advanced PHP architecture
+* Laravel
+* WP Mock
+* REST APIs
+* PHPUnit
+* Git
+
 
 ### Sandhills Development:
 **Senior Developer – January 2019 – September 2021**
