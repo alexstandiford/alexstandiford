@@ -11,11 +11,15 @@ _Knowledgeable about modern web technologies, and thirst to apply it somewhere g
 
 At GoDaddy, I work with a team of developers who build, and maintain their Managed WooCommerce offerings.. While working here, I have played a role in introducing several features, provide opinions and input on development architecture, and of course, write lots of code.
 
-* Participate in agile development workflows
-* Advised on architectural code decisions, and optimizations
-* Work extensively with modern PHP practices.
-* Write extensive unit tests, and participated in TDD practices
-* Work in multiple development environments, both in, and out of WordPress
+Participate in agile development workflows
+
+Advised on architectural code decisions, and optimizations
+
+Work extensively with modern PHP practices.
+
+Write extensive unit tests, and participated in TDD practices
+
+Work in multiple development environments, both in, and out of WordPress
 
 #### Technologies Used:
 
