@@ -6,12 +6,12 @@ I started a new job, working on the [GoDaddy's E-commerce](https://www.godaddy.c
 
 ## Personal
 
-I bought a much bigger camper, and a new truck that can actually haul said camper. We're effectively doubling our square footage with this new rig. After much discussion, Kate and I decided that we just _aren't ready to stop this anytime soon_, and if we're going to be on the road then it's time to make an upgrade that will suit us for that timeframe. Our current rig is sufficient, but we're definitely starting to feel crammed in here. as the kids get older, they're starting to take up more space, and we anticipate that this is only going to continue to be a challenge as Devin grows. So, we got a big ol' fifth wheel that gives the kids their own room, gives us our own room, and includes suitable living areas for lounging, as well as a kitchen.
+Welp, [second summer](https://casualweirdness.life/second-summer-here-i-come/) is well on it's way. We've left our winter spot in Texas, and are now out east. We're basically waiting for Vermont to thaw enough for us to head that way.
 
-We're currently on week 6 in Dover making repairs and upgrades to the camper and are despearately wanting to get the heck out of here and back on the road. My routine is so jacked up right now.
+One of [this year's goals](https://alexstandiford.com/blog/goals/2023-looking-forward/) is to purchase land in Vermont, and I've been working hard to get a stash of money to be able to put down toward that. I can't wait until April, because that's when we can really start looking at our options seriously. In the meantime, I'll [enjoy this lovely Georgia weather](https://fosstodon.org/@alexstandiford/109864727684807188).
 
-## Online Courses at WP Dev Academy
+## Side Hustle
 
-I've started working on the expansions to turn WP Dev Academy into PressCademy, a WordPress specific course platform. If you want to publish courses, and earn passive income, [DEFINITELY check this out](https://twitter.com/AlexStandiford/status/1467627243593781251?s=20). I'll be sharing details as I publish them. I've been working on the website design off and on when I have time, and have started to formulate the phases in which the build needs to happen over the next few months. _Really_ excited about this!
+Now that [DesignFrame is gone](https://alexstandiford.com/blog/business/so-long-designframe/), I have been able to focus on taking on more-appropriate clients for my skill set, and as a result I have started taking gigs [like this one](https://alexstandiford.com/blog/side-hustle/i-built-a-restful-events-integration-this-weekend/), solving problems for agencies when they have a need that is outside of their wheelhouse.
 
-Unfortunately, I haven't been working much on new course content lately. I've been putting what time I have into actuall getting the new PressCademy site up and running, which let me tell you, has been _quite an undertaking_. I intentionally set the scope for the initial launch to be what I'd consider "reasonable", but it's still a lot of work. But it will be worth it. The interface is really nice, and it's something that I'm genuinely proud of. I can't wait to share it.
+What extra "side hustle" time I have available goes toward tinkering with a NextJS-based version of this site. I have a vision of [turning my site into a central hub](https://alexstandiford.com/blog/fediverse/your-site-as-a-central-hub/), and a big part of that is having a headless setup that plays nicely with it. More on this in-time.
