@@ -6,9 +6,7 @@ Since then, I have built dozens of WordPress plugins, scratch-made websites, and
 
 I am an active contributor to WordPress, where I maintain a couple of plugins, make small updates to	documentation errors, and participate in WordCamp organization.
 
-I’m serving my clients through my businesses – [DesignFrame Solutions](https://www.designframesolutions.com/?ref=2), or putting in sweat equity in my [off grid life](https://www.casualweirdness.life/). I'm also spending a fair amount of time [building WordPress development courses at WP Dev Academy](https://www.wpdev.academy).
-
-If you are interested in hiring me, or working with me in any way, you can contact me at [hello@alexstandiford.com](<mailto:hello@alexstandiford.com>).
+If you are interested in hiring me, or working with me in any way, you can contact me at [alex@standiford.us](<mailto:alex@standiford.us>).
 
 ## Skills
 
@@ -17,11 +15,11 @@ If you are interested in hiring me, or working with me in any way, you can conta
 - AffiliateWP
 - JavaScript
 - PHP
+- Laravel
 - HTML
 - CSS/SCSS
 - Node.js
 - React
-- jQuery
 - Webpack
 - Responsive Design
 - MySQL
