@@ -7,7 +7,8 @@ Since then, I have built dozens of WordPress plugins, scratch-made websites, and
 I am an active contributor to open source software in-general. Most of my contributions can be seen in WordPress, where I maintain a couple of plugins, contribute to a few other projects, and work on core WordPress features that interest me.
 
 If you are interested in hiring me, or working with me in any way, you can contact me at alex@standiford.us.
-Personal Life
+
+## Personal Life
 
 These days, I live in a camper with my family. You'd probably call me a digital nomad, and I don't think I can disagree at this point. We've been on the road for over 3 years, and have seen a lot of stuff along the way. We talk about our exploits on Casual Weirdness, and share what we are have learned on the road, and on the land. It's a good life, exciting, and full of constant good weather.
 
